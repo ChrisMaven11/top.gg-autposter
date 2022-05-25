@@ -20,3 +20,5 @@ Click on the edit button **--->** Save Changes **--->** Refresh data
 # Result
 
 <img src="https://media.discordapp.net/attachments/412006692125933568/979040525392937041/unknown.png">
+
+And that's it! You will get the bot working, if any issues feel free to open an issue, or contact top.gg via their <a href="https://discord.gg/dbl">discord server</a>
